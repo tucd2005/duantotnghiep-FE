@@ -4,7 +4,7 @@ type Props = {}
 
 const MainLayout = (props: Props) => {
   return (
-    div
+    
   )
 }
 
